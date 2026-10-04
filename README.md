@@ -7,6 +7,9 @@
 <div align="center">
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Task-Skill%20Retrieval-blue" alt="Skill Retrieval">
+  <img src="https://img.shields.io/badge/Method-Gate--Aware%20MCTS-orange" alt="Gate-Aware MCTS">
+  <img src="https://img.shields.io/badge/Index-Graph%20%2B%20Hierarchy-purple" alt="Graph and Hierarchy">
   <img src="https://img.shields.io/badge/Status-Coming%20Soon-orange" alt="Coming Soon">
 </p>
 
