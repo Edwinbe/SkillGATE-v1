@@ -7,23 +7,14 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Task-Skill%20Retrieval-blue" alt="Skill Retrieval">
-  <img src="https://img.shields.io/badge/Method-Gate--Aware%20MCTS-orange" alt="Gate-Aware MCTS">
-  <img src="https://img.shields.io/badge/Index-Graph%20%2B%20Hierarchy-purple" alt="Graph and Hierarchy">
-  <br>
-  <img src="https://img.shields.io/badge/Python-%E2%89%A53.10-3776AB?logo=python&logoColor=white" alt="Python ≥3.10">
-  <img src="https://img.shields.io/badge/CUDA-PyTorch%20Compatible-76B900?logo=nvidia&logoColor=white" alt="CUDA compatible with PyTorch">
-  <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?logo=cplusplus&logoColor=white" alt="C++17">
-  <img src="https://img.shields.io/badge/Platform-Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Status-Coming%20Soon-orange" alt="Coming Soon">
 </p>
 
 <p align="center">
   <img src="./assert%3Aimg/main.png" alt="framework" width="900">
 </p></div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Coming%20Soon-orange" alt="Coming Soon">
-</p>
+
 
 ## 📖 Paper Introduction
 
