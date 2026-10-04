@@ -19,10 +19,11 @@
 
 <p align="center">
   <img src="./assert%3Aimg/main.png" alt="framework" width="900">
-</p>
-</div>
+</p></div>
 
-coming soon...
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Coming%20Soon-orange" alt="Coming Soon">
+</p>
 
 ## 📖 Paper Introduction
 
